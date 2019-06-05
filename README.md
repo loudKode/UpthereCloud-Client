@@ -14,3 +14,5 @@ Manage your files/folders in Upthere.com Cloud
 * * Fembed
 * * Dailymotion
 * * mirrored
+
+![https://i.postimg.cc/zfYfwV91/ure-Wiz452.png](https://i.postimg.cc/zfYfwV91/ure-Wiz452.png)
